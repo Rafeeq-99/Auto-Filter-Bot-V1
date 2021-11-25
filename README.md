@@ -18,9 +18,9 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/MoTechYT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
+[![TroJanz](https://img.shields.io/badge/MRTech-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/MR_Tech_Pa)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
+[![MoTechYT](https://img.shields.io/badge/MRTech-Support-red?style=flat&logo=telegram)](https://t.me/MR_Tech_Pa)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 # Auto Filter Bot v1
