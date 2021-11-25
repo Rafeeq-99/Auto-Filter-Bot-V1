@@ -41,7 +41,7 @@
 ## Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rafeeq-99/Auto-Filter-Bot-V1)
 
 
 
@@ -59,6 +59,6 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
+[Click here to see tutorial video]()
 
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
+Thanks to [MR Tech](https://t.me/MR_Tech_Pa) and [MR Tech](https://t.me/MR_Tech_Pa) for the video
