@@ -8,12 +8,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/Auto-Filter-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/Rafeeq-99/Auto-Filter-Bot-V1?style=social">
 
   </a>
   
   <a href="https://github.com/MRK-YT/Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/Auto-Filter-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Rafeeq-99/Auto-Filter-Bot-V1?label=Fork&style=social">
 
   </a>  
 </p>
