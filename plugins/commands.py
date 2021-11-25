@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Mo_Tech_YT")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/MR_Tech_Pa")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                            "⭕️ SUPPORT ⭕️", url="https://youtube.com/channel/UC4sW04as2P-N6bP5D8E89qQ")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/MRK-YT/Auto-Filter-Bot")
+                            "SOURCE CODE", url="https://github.com/Rafeeq-99/Auto-Filter-Bot-V1")
                     ]
                 ]
             ),
