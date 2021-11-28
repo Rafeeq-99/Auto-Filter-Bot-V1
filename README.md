@@ -59,6 +59,6 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video]()
+[Click here to see tutorial video](https://youtu.be/ONTT7A90rFU)
 
 Thanks to [MR Tech](https://t.me/MR_Tech_Pa) and [MR Tech](https://t.me/MR_Tech_Pa) for the video
